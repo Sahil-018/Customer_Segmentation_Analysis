@@ -365,17 +365,6 @@ You can use the following text in your GitHub repository:
 > * Pandas
 > * NumPy
 > * Matplotlib
----
-
-## Copyright and Usage
-
-Copyright © 2026 Sahil Kale.  
-All rights reserved.
-
-This project is shared on GitHub for portfolio and internship evaluation
-purposes only. No permission is granted to reuse, redistribute, modify,
-publish, or use this work commercially without prior written permission
-from Sahil Kale.
 > * Seaborn
 > * Scikit-learn
 > * Jupyter Notebook
@@ -398,4 +387,14 @@ from Sahil Kale.
 
 The notebook presents a complete introductory customer segmentation workflow. It begins with transaction-level data, creates customer-level behavioral features, calculates CLV, applies RFM analysis, standardizes the features, and uses K-Means to create customer segments.
 
-For a stronger GitHub project, the most important next step is to add a clear cluster-profile table and explain the exact business meaning of every cluster. The project already demonstrates the core skills expected in an entry-level data analyst or junior data scientist portfolio: Python, data preprocessing, feature engineering, statistical exploration, machine learning, and business interpretation.
+---
+
+## Copyright and Usage
+
+Copyright © 2026 Sahil Kale.  
+All rights reserved.
+
+This project is shared on GitHub for portfolio and internship evaluation
+purposes only. No permission is granted to reuse, redistribute, modify,
+publish, or use this work commercially without prior written permission
+from Sahil Kale.e exact business meaning of every cluster. The project already demonstrates the core skills expected in an entry-level data analyst or junior data scientist portfolio: Python, data preprocessing, feature engineering, statistical exploration, machine learning, and business interpretation.
